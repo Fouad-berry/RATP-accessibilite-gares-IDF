@@ -1,8 +1,4 @@
 # Données volumineuses et temporaires
-/data/processed/
-/data/raw/
-/powerbi/
-/images/
 *.pyc
 __pycache__/
 .ipynb_checkpoints/
