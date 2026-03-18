@@ -1,0 +1,18 @@
+# Données volumineuses et temporaires
+/data/processed/
+/data/raw/
+/powerbi/
+/images/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+# Environnement virtuel Python
+.venv/
+venv/
+ENV/
+
+# Fichiers Python générés
+*.pyc
+__pycache__/
