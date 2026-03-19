@@ -80,6 +80,9 @@ python3 scripts/analysis.py
 
 ## 📈 Dashboard Power BI
 
+
+Le fichier Power BI (.pbix) se trouve dans le dossier `powerbi/` du projet, si vous souhaitez l'ouvrir ou l'explorer directement dans Power BI.
+
 Le dashboard permet de visualiser :
 
 * 📍 Carte des gares avec niveau d’accessibilité
