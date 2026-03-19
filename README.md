@@ -131,3 +131,11 @@ Ce projet met en évidence les enjeux d’accessibilité dans les transports pub
 ## 🖼️ Aperçu du dashboard
 
 ![Dashboard](images/dashboard.jpg)
+
+---
+
+## 📬 Contact
+
+Fouad MOUTAIROU
+Portfolio : https://portfolio-fouad.netlify.app/
+LinkedIn : https://www.linkedin.com/in/fouad-moutairou-%F0%9F%92%BB-044460273/
