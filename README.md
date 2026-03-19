@@ -19,3 +19,17 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
+
+## Ordre d'exécution des scripts
+
+1. Nettoyage et préparation des données :
+   ```bash
+   python3 scripts/data_cleaning.py
+   ```
+   (Génère le fichier cleaned_data.csv dans data/processed/)
+
+2. Analyse et extraction des indicateurs :
+   ```bash
+   python3 scripts/analysis.py
+   ```
+   (Affiche les statistiques, listes et analyses avancées)
