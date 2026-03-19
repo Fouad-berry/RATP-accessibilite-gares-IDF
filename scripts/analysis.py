@@ -36,16 +36,6 @@ print('\nGares non accessibles :')
 df_non_access = df[df['accessibility_level_name'] == 'gare ou arrêt non accessible']
 print(df_non_access[['stop_name', 'accessibility_level_name', 'lat', 'lon']])
 
-# Nombre d’arrêts par ligne
-if 'ligne' in df.columns:
-    print('\nNombre d’arrêts par ligne :')
-    arrets_par_ligne = df['ligne'].value_counts()
-    print(arrets_par_ligne)
-    print('\nTop 5 des lignes les plus desservies :')
-    print(arrets_par_ligne.head(5))
-else:
-    print("Colonne 'ligne' non disponible dans ce dataset.")
-
 # Zones mal couvertes (quadrillage simple)
 if 'lat' in df.columns and 'lon' in df.columns:
     lat_min, lat_max = df['lat'].min(), df['lat'].max()
