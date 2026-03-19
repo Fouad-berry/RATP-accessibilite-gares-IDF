@@ -130,4 +130,4 @@ Ce projet met en évidence les enjeux d’accessibilité dans les transports pub
 
 ## 🖼️ Aperçu du dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.jpg)
