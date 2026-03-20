@@ -1,8 +1,8 @@
-# 🚉 Analyse de l’accessibilité des gares en Île-de-France
+# 🚉 Analyse de l’accessibilité des gares en Île-de-France 
 
 ## 📌 Objectif du projet
 
-Ce projet vise à analyser le niveau d’accessibilité des gares en Île-de-France à partir de données ouvertes fournies par Île-de-France Mobilités.
+Ce projet vise à analyser le niveau d’accessibilité des gares en Île-de-France à partir de données ouvertes fournies par le site de Île-de-France Mobilités.
 
 L’objectif est de :
 
@@ -137,5 +137,5 @@ Ce projet met en évidence les enjeux d’accessibilité dans les transports pub
 ## 📬 Contact
 
 Fouad MOUTAIROU
-Portfolio : https://portfolio-fouad.netlify.app/
-LinkedIn : https://www.linkedin.com/in/fouad-moutairou-%F0%9F%92%BB-044460273/
+Mon Portfolio : https://portfolio-fouad.netlify.app/
+Mon LinkedIn : https://www.linkedin.com/in/fouad-moutairou-%F0%9F%92%BB-044460273/
